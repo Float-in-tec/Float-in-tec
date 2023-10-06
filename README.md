@@ -14,6 +14,12 @@
  <img align="center" alt="Qgis" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png">  
  <img align="center" alt="Python" height="38" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
  <img align="center" alt="Office" height="35" width="35" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png">
+ <img align="center" alt="MySQL" height="35" width="35" src=" https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png
+">
+ <img align="center" alt="Shell" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png">
+ <img align="center" alt="Git" height="35" width="35" src=" https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png
+">
+ <img align="center" alt="SQL" height="35" width="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png">
 </div>
          
  <br>
