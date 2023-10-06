@@ -10,16 +10,14 @@
  Principais linguagens e ferramentas /
  Main languages and tools
 <div style="display: inline_block"><br> 
-  <img align="center" alt="VBA" height="37" width="37" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png?width=256&s=5bac38c05ef99a5cfe910cd79d94b0e9dbe15e6d">   
- <img align="center" alt="Qgis" height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png">  
- <img align="center" alt="Python" height="38" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
- <img align="center" alt="Office" height="35" width="35" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png">
- <img align="center" alt="MySQL" height="35" width="35" src=" https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png
-">
- <img align="center" alt="Shell" height="35" width="35" src="https://cdn.icon-icons.com/icons2/2367/PNG/512/terminal_shell_icon_143501.png">
- <img align="center" alt="Git" height="35" width="35" src=" https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png
-">
- <img align="center" alt="SQL" height="35" width="35" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png">
+  <img align="center" alt="VBA" height="30" width="30" src="https://styles.redditmedia.com/t5_2rnlw/styles/communityIcon_z3kwah4z27c71.png?width=256&s=5bac38c05ef99a5cfe910cd79d94b0e9dbe15e6d">   
+ <img align="center" alt="Qgis" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png">  
+ <img align="center" alt="Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+ <img align="center" alt="Office" height="32" width="32" src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png">
+ <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
+ <img align="center" alt="Shell" height="30" width="30" src="https://cdn.icon-icons.com/icons2/39/PNG/128/Konsole_shell_terminal_6138.png">
+ <img align="center" alt="Git" height="38" width="35" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_wordmark_logo_icon_146508.png">
+ <img align="center" alt="SQL" height="32" width="32" src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png">
 </div>
          
  <br>
