@@ -1,6 +1,6 @@
-### Bem-vindes ao meu github
+### Bem-vindo ao meu github
 ### Welcome to my github
-- 😄 Pronouns: She/hers or They/them
+- 😄 Pronouns: She/hers
 
  <div>
   <a href="https://github.com/Float-in-tec">
